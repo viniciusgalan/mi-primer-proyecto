@@ -19,20 +19,20 @@ La experiencia clínica en el sector dental permite identificar desafíos reales
 
 ## 5. Objetivos
 ### Objetivo General
-Investigar y desarrollar una solución basada en Data Science e inteligencia artificial aplicada al negocio odontológico, evaluando indicadores comerciales y operativos para proponer mejoras fundamentadas en datos[cite: 3].
+Investigar y desarrollar una solución basada en Data Science e inteligencia artificial aplicada al negocio odontológico, evaluando indicadores comerciales y operativos para proponer mejoras fundamentadas en datos.
 
 ### Objetivos Específicos
-* Analizar indicadores de facturación, ocupación y cancelaciones[cite: 3].
-* Estudiar los patrones de asistencia, ausencias y cancelación de citas[cite: 3].
-* Desarrollar un modelo predictivo orientado a la gestión de agendas[cite: 3].
-* Diseñar un dashboard interactivo para la visualización de KPIs comerciales[cite: 3].
+* Analizar indicadores de facturación, ocupación y cancelaciones.
+* Estudiar los patrones de asistencia, ausencias y cancelación de citas.
+* Desarrollar un modelo predictivo orientado a la gestión de agendas.
+* Diseñar un dashboard interactivo para la visualización de KPIs comerciales.
 
 ## 6. Herramientas y Tecnologías
-* Programación y Análisis: Python, Pandas, NumPy, SQL[cite: 3].
-* Machine Learning: Scikit-learn[cite: 3].
-* Visualización: Matplotlib, Seaborn, Power BI / Streamlit[cite: 3].
-* Control de Versiones: Git y GitHub[cite: 3].
-* Asistencia de IA: ChatGPT, GitHub Copilot, NotebookLM, Google Colab[cite: 3].
+* Programación y Análisis: Python, Pandas, NumPy, SQL.
+* Machine Learning: Scikit-learn.
+* Visualización: Matplotlib, Seaborn, Power BI / Streamlit.
+* Control de Versiones: Git y GitHub.
+* Asistencia de IA: ChatGPT, GitHub Copilot, NotebookLM, Google Colab.
 
 ## 7. Estructura del Repositorio
 ```text
