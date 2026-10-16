@@ -32,7 +32,7 @@ Investigar y desarrollar una solución basada en Data Science e inteligencia art
 * Machine Learning: Scikit-learn.
 * Visualización: Matplotlib, Seaborn, Power BI / Streamlit.
 * Control de Versiones: GitHub.
-* Asistencia de IA: Gemini, ChatGPT, GitHub Copilot, NotebookLM, Google Colab.
+* Asistencia de IA: Google Gemini, ChatGPT, GitHub Copilot, NotebookLM, Google Colab.
 
 ## 7. Estructura del Repositorio
 ```text
