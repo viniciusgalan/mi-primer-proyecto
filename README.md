@@ -31,8 +31,8 @@ Investigar y desarrollar una solución basada en Data Science e inteligencia art
 * Programación y Análisis: Python, Pandas, NumPy, SQL.
 * Machine Learning: Scikit-learn.
 * Visualización: Matplotlib, Seaborn, Power BI / Streamlit.
-* Control de Versiones: Git y GitHub.
-* Asistencia de IA: ChatGPT, GitHub Copilot, NotebookLM, Google Colab.
+* Control de Versiones: GitHub.
+* Asistencia de IA: Gemini, ChatGPT, GitHub Copilot, NotebookLM, Google Colab.
 
 ## 7. Estructura del Repositorio
 ```text
